@@ -7,3 +7,7 @@ Target platform: ``web``.
   
 The app available here - https://philippnox.github.io/wordle_helper/  
 Size: ~10MB and there is no loading page.  
+
+## Preview
+
+![](https://raw.githubusercontent.com/PhilippNox/wordle_helper/main/__for_readme/wordle_helper.gif)  
